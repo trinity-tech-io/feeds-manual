@@ -115,7 +115,9 @@ elastOS可在Google Play商店中以及扫描下面的QR码来下载安装
 
    在PC的浏览器上打开链接下载：
 
-   [https://github.com/elastos-trinity/feeds-service/releases/download/release-v1.0.1/Feeds.Service.app.macos.tar.gz](https://github.com/elastos-trinity/feeds-service/releases/download/release-v1.0.1/Feeds.Service.app.macos.tar.gz)
+   [Feeds.Service.app.macos.tar.gz](https://github.com/elastos-trinity/feeds-service/releases/download/release-v1.1.0/Feeds.Service.app.macos.tar.gz)
+
+   [查找最新版本](https://github.com/elastos-trinity/feeds-service/releases/)
 
 2. 启动安装微频服务
 
@@ -138,7 +140,9 @@ elastOS可在Google Play商店中以及扫描下面的QR码来下载安装
 
    在浏览器上打开链接：
 
-   [https://github.com/elastos-trinity/feeds-service/releases/download/release-v1.0.1/feedsd_1.0.1_amd64_ubuntu_2004.deb](https://github.com/elastos-trinity/feeds-service/releases/download/release-v1.0.1/feedsd_1.0.1_amd64_ubuntu_2004.deb)
+   [feedsd_1.1.0_amd64_ubuntu_2004.deb](https://github.com/elastos-trinity/feeds-service/releases/download/release-v1.1.0/feedsd_1.1.0_amd64_ubuntu_2004.deb)
+
+   [查找最新版本](https://github.com/elastos-trinity/feeds-service/releases/)
 
 2. 启动安装微频服务
 
@@ -166,7 +170,9 @@ elastOS可在Google Play商店中以及扫描下面的QR码来下载安装
 
    打开链接下载：
 
-   [https://github.com/elastos-trinity/feeds-service/releases/download/release-v1.0.1/feedsd_1.0.1_armhf_raspbian.deb](https://github.com/elastos-trinity/feeds-service/releases/download/release-v1.0.1/feedsd_1.0.1_armhf_raspbian.deb)
+   [feedsd_1.1.0_armhf_raspbian.deb](https://github.com/elastos-trinity/feeds-service/releases/download/release-v1.1.0/feedsd_1.1.0_armhf_raspbian.deb)
+
+   [查找最新版本](https://github.com/elastos-trinity/feeds-service/releases/)
 
 2. 启动安装微频服务
 
@@ -223,7 +229,7 @@ elastOS可在Google Play商店中以及扫描下面的QR码来下载安装
 
    <img src="Image/zh/feedsbind-10.jpg" width=180 height=350>
 
-8. 点击“颁发新凭证”按钮，在弹框里输入微频源的名称、描述、ELA钱包地址，点击“确认！”，在跳转的请求签名凭证界面上点击“接受”，则凭证颁发成功。
+8. 点击“颁发新凭证”按钮，在弹框里输入微频源的名称、描述、ELA钱包地址，点击“确认”，在跳转的请求签名凭证界面上点击“接受”，则凭证颁发成功。
 
    <figure>
    <img src="Image/zh/feedsbind-11.jpg" width=180 height=350>

@@ -115,7 +115,10 @@ Currently supports Mac and Linux debian distributions.
 
    Open the link to download on a PC browser:
 
-   [https://github.com/elastos-trinity/feeds-service/releases/download/release-v1.0.1/Feeds.Service.app.macos.tar.gz](https://github.com/elastos-trinity/feeds-service/releases/download/release-v1.0.1/Feeds.Service.app.macos.tar.gz)
+    [Feeds.Service.app.macos.tar.gz](https://github.com/elastos-trinity/feeds-service/releases/download/release-v1.1.0/Feeds.Service.app.macos.tar.gz)
+
+    [Find the latest version](https://github.com/elastos-trinity/feeds-service/releases/)
+
 
 2. Start the installation of Feeds Service
 
@@ -138,7 +141,9 @@ Currently supports Mac and Linux debian distributions.
 
    Open the link to download on a PC browser:
 
-   [https://github.com/elastos-trinity/feeds-service/releases/download/release-v1.0.1/feedsd_1.0.1_amd64_ubuntu_2004.deb](https://github.com/elastos-trinity/feeds-service/releases/download/release-v1.0.1/feedsd_1.0.1_amd64_ubuntu_2004.deb)
+   [feedsd_1.1.0_amd64_ubuntu_2004.deb](https://github.com/elastos-trinity/feeds-service/releases/download/release-v1.1.0/feedsd_1.1.0_amd64_ubuntu_2004.deb)
+
+   [Find the latest version](https://github.com/elastos-trinity/feeds-service/releases/)
 
 2. Start the installation ofFeeds Service
 
@@ -166,7 +171,9 @@ Currently supports Mac and Linux debian distributions.
 
    Open the link to download:
 
-   [https://github.com/elastos-trinity/feeds-service/releases/download/release-v1.0.1/feedsd_1.0.1_armhf_raspbian.deb](https://github.com/elastos-trinity/feeds-service/releases/download/release-v1.0.1/feedsd_1.0.1_armhf_raspbian.deb)
+   [feedsd_1.1.0_armhf_raspbian.deb](https://github.com/elastos-trinity/feeds-service/releases/download/release-v1.1.0/feedsd_1.1.0_armhf_raspbian.deb)
+
+   [Find the latest version](https://github.com/elastos-trinity/feeds-service/releases/)
 
 2. Start the installation of Feeds Service
 
@@ -223,7 +230,7 @@ Currently supports Mac and Linux debian distributions.
 
    <img src="Image/en/feedsbind-10.jpg" width=180 height=350>
 
-8. Click the "Issue credentials" button, enter the name,description,and ELA Address of the FeedSource in the pop-up box, click "Confirm!", and click "Accept" on the redirected request,sign the Credential interface, and then the credential will be issued successfully.
+8. Click the "Issue credentials" button, enter the name,description,and ELA Address of the FeedSource in the pop-up box, click "Confirm", and click "Accept" on the redirected request,sign the Credential interface, and then the credential will be issued successfully.
 
    <figure>
    <img src="Image/en/feedsbind-11.jpg" width=180 height=350>
