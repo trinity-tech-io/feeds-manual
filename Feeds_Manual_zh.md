@@ -14,7 +14,7 @@
 
 elastOS可在Google Play商店中以及扫描下面的QR码来下载安装
 
-![图片](Image/common/elastOS-android.png)
+<img src="Image/common/elastOS-android.png" width="120" height="150">
 
 ### 2.2 安装微频
 
@@ -24,17 +24,25 @@ elastOS可在Google Play商店中以及扫描下面的QR码来下载安装
 
 * 在elastOS里下载安装微频
 
-   1. 在手机上点击elastOS图标，打开elastOS进入主页：
+  1. 在手机上点击elastOS图标，打开elastOS进入主页：
 
-      ![图片](Image/common/elastOS-apk.jpg)![图片](Image/zh/elastOS-home.jpg)
+   <figure>
+   <img src="Image/common/elastOS-apk.jpg" width=180 height=350>
+   <img src="Image/zh/elastOS-home.jpg" width=180 height=350>
+   </figure>
 
-   2. 打开“Capsule Marketplace”，在搜索框输入“Feeds”，找到后点击“INSTALL”安装。
+  2. 打开“Capsule Marketplace”，在搜索框输入“Feeds”，找到后点击“INSTALL”安装。
 
-      ![图片](Image/zh/elastOS-market.jpg)
+   <figure>
+   <img src="Image/zh/elastOS-market.jpg" width=180 height=350>
+   </figure>
 
-   3. 在 “最近浏览” 下使用右侧菜单里的“收藏”来收藏微频。微频会出现在elastOS的主界面，方便后续使用。
+  3. 在 “最近浏览” 下使用右侧菜单里的“收藏”来收藏微频。微频会出现在elastOS的主界面，方便后续使用。
 
-      ![图片](Image/zh/elastOS-fav.jpg)![图片](Image/zh/elastOS-home2.jpg)
+   <figure>
+   <img src="Image/zh/elastOS-fav.jpg" width=180 height=350>
+   <img src="Image/zh/elastOS-home2.jpg" width=180 height=350>
+   </figure>
 
 ## 3. 如何添加微频源？
 

@@ -14,7 +14,7 @@ Feeds is a decentralized social networking platform dedicated to serving public 
 
 elastOS is available on the Google Play Store, and at QR code below.
 
-![Image](Image/common/elastOS-android.png)
+<img src="Image/common/elastOS-android.png" width="120" height="150">
 
 ### 2.2 Download and install Feeds in elastOS
 
