@@ -26,23 +26,23 @@ elastOS可在Google Play商店中以及扫描下面的QR码来下载安装
 
   * 在手机上点击elastOS图标，打开elastOS进入主页：
 
-   <figure>
-   <img src="Image/common/elastOS-apk.jpg" width=180 height=350>
-   <img src="Image/zh/elastOS-home.jpg" width=180 height=350>
-   </figure>
+      <figure>
+      <img src="Image/common/elastOS-apk.jpg" width=180 height=350>
+      <img src="Image/zh/elastOS-home.jpg" width=180 height=350>
+      </figure>
 
   * 打开“Capsule Marketplace”，在搜索框输入“Feeds”，找到后点击“INSTALL”安装。
 
-   <figure>
-   <img src="Image/zh/elastOS-market.jpg" width=180 height=350>
-   </figure>
+      <figure>
+      <img src="Image/zh/elastOS-market.jpg" width=180 height=350>
+      </figure>
 
   * 在 “最近浏览” 下使用右侧菜单里的“收藏”来收藏微频。微频会出现在elastOS的主界面，方便后续使用。
 
-   <figure>
-   <img src="Image/zh/elastOS-fav.jpg" width=180 height=350>
-   <img src="Image/zh/elastOS-home2.jpg" width=180 height=350>
-   </figure>
+      <figure>
+      <img src="Image/zh/elastOS-fav.jpg" width=180 height=350>
+      <img src="Image/zh/elastOS-home2.jpg" width=180 height=350>
+      </figure>
 
 ## 3. 如何添加微频源？
 
@@ -73,10 +73,10 @@ elastOS可在Google Play商店中以及扫描下面的QR码来下载安装
 
 3. 点击进入“微频源”界面，如果还未绑定或者添加过，就在下面左图上点击“添加微频源”；如果已添加过请点击下面右图上“添加新的微频源”。
 
-<figure>
+   <figure>
    <img src="Image/zh/feedsadd-2.jpg" width=180 height=350>
    <img src="Image/zh/feedsadd-3.jpg" width=180 height=350>
-</figure>
+   </figure>
 
 4. 进入添加微频源界面，可通过以下两种方式添加微频源：
 
@@ -85,10 +85,10 @@ elastOS可在Google Play商店中以及扫描下面的QR码来下载安装
 
   确认无误后，点击“添加微频源”，则微频源添加成功。
 
-<figure>
+   <figure>
    <img src="Image/zh/feedsadd-4.jpg" width=180 height=350>
    <img src="Image/zh/feedsadd-5.jpg" width=180 height=350>
-</figure>
+   </figure>
 
 5. 微频源添加成功后，可在微频源界面看到新添加的微频源。
 
@@ -96,10 +96,10 @@ elastOS可在Google Play商店中以及扫描下面的QR码来下载安装
 
 6. 进入探索微频源界面，刷新界面，可加载所有已添加的微频源下创建的所有微频。关注指定微频后，可以在“我的时间线”下查看到已关注的所有微频发布的微说。用户可以点赞微说，也可以对此微说添加微评。
 
-<figure>
+   <figure>
    <img src="Image/zh/feedsadd-7.jpg" width=180 height=350>
    <img src="Image/zh/feedsadd-8.jpg" width=180 height=350>
-</figure>
+   </figure>
 
 ## 4. 如何发布微说？
 
@@ -125,10 +125,10 @@ elastOS可在Google Play商店中以及扫描下面的QR码来下载安装
 
 * 点击“Feeds Service”应用图标会启动安装，弹出一个运行窗口，如下所示，同时会弹出一个请求链接的页面，点击“允许”即可。（如果无法打开，请到“常见问题解答”中找解决办法）
 
-<figure>
+   <figure>
    <img src="Image/common/mac-0.png" width=260 height=180>
    <img src="Image/zh/mac-1.png" width=260 height=150>
-</figure>
+   </figure>
 
 * 将上述窗口中的URL链接“[http://localhost:10080/](http://localhost:10080/)”拷贝到浏览器上打开，会显示一个二维码（该二维码等待微频 dapp 扫描来绑定该服务）。
 
@@ -188,17 +188,17 @@ elastOS可在Google Play商店中以及扫描下面的QR码来下载安装
 
 1. 点击下方tab页的 “+” 号按钮进入绑定微频源流程（或在微频源界面的“创建新的微频源”来开启绑定过程）；
 
-<figure>
+   <figure>
    <img src="Image/zh/feedsbind-1.jpg" width=180 height=350>
    <img src="Image/zh/feedsbind-2.jpg" width=180 height=350>
-</figure>
+   </figure>
 
 2. 点击页面中部的扫描图标，扫描刚搭建的浏览器页面“[http://localhost:10080/](http://localhost:10080/)”的二维码，结果如下：
 
-<figure>
+   <figure>
    <img src="Image/zh/feedsbind-3.jpg" width=180 height=350>
    <img src="Image/zh/feedsbind-4.jpg" width=180 height=350>
-</figure>
+   </figure>
 
 3. 确认无误后，点击“确认一致，继续”按钮，进入下一个界面：
 
@@ -214,10 +214,10 @@ elastOS可在Google Play商店中以及扫描下面的QR码来下载安装
 
 6. 此处以钱包为例来说明。
 
-<figure>
+   <figure>
    <img src="Image/zh/feedsbind-8.jpg" width=180 height=350>
    <img src="Image/zh/feedsbind-9.jpg" width=180 height=350>
-</figure>
+   </figure>
 
 7. 交易发起后，界面跳转至微频应用里，接着需要给微频源颁发凭证。
 
@@ -225,17 +225,17 @@ elastOS可在Google Play商店中以及扫描下面的QR码来下载安装
 
 8. 点击“颁发新凭证”按钮，在弹框里输入微频源的名称、描述、ELA钱包地址，点击“确认！”，在跳转的请求签名凭证界面上点击“接受”，则凭证颁发成功。
 
-<figure>
+   <figure>
    <img src="Image/zh/feedsbind-11.jpg" width=180 height=350>
    <img src="Image/zh/feedsbind-12.jpg" width=180 height=350>
-</figure>
+   </figure>
 
 9. 凭证颁发成功后，则绑定过程即完成。用户可以在微频源界面的“我的微频源”部分看到绑定的微频源。
 
-<figure>
+   <figure>
    <img src="Image/zh/feedsbind-13.jpg" width=180 height=350>
    <img src="Image/zh/feedsbind-14.jpg" width=180 height=350>
-</figure>
+    </figure>
 
 ### 4.3 创建微频
 
@@ -245,10 +245,10 @@ elastOS可在Google Play商店中以及扫描下面的QR码来下载安装
 
 2. 打开创建界面后，分别编辑微频的名称、描述、以及头像，然后点击“创建微频”,确认信息后即可成功创建。
 
-<figure>
+   <figure>
    <img src="Image/zh/feedscreate-2.jpg" width=180 height=350>
    <img src="Image/zh/feedscreate-3.jpg" width=180 height=350>
-</figure>
+   </figure>
 
 3. 创建完成后，可以在“我的微频”页下面看到新创建的微频。用户可以创建多个微频，用来分别发布不同种类的微说。再次创建微频时，可以通过点击“创建新的微频”来创建。
 
@@ -260,10 +260,10 @@ elastOS可在Google Play商店中以及扫描下面的QR码来下载安装
 
 1. 点击tab页上的“+”号图标，选择用来发布的微频后跳转到编辑页面；
 
-<figure>
+   <figure>
    <img src="Image/zh/post-1.jpg" width=180 height=350>
    <img src="Image/zh/post-2.jpg" width=180 height=350>
-</figure>
+   </figure>
 
 2. 可以输入文字，也可以通过点击“添加图片”选择图片，编辑完毕后点击“发布”即可完成发布。
 
@@ -328,10 +328,10 @@ elastOS可在Google Play商店中以及扫描下面的QR码来下载安装
 
 点击“仍要打开”，然后在弹出的确认打开界面继续点击“打开”，则会打开Feeds Service，然后在弹出的请求链接上点击“允许”即可。
 
-<figure>
-<img src="Image/zh/q6-3.png" width=280 height=140>
-<img src="Image/zh/q6-4.png" width=280 height=140>
-</figure>
+   <figure>
+   <img src="Image/zh/q6-3.png" width=280 height=140>
+   <img src="Image/zh/q6-4.png" width=280 height=140>
+   </figure>
 
 **Q7：Feeds Service服务的数据文件在哪里？**
 
