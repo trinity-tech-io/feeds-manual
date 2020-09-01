@@ -26,23 +26,23 @@ elastOS is available on the Google Play Store, and at QR code below.
 
   * Click the elastOS icon to open elastOS and land on the homepage:
 
-   <figure>
-   <img src="Image/common/elastOS-apk.jpg" width=180 height=350>
-   <img src="Image/en/elastOS-home.jpg" width=180 height=350>
-   </figure>
+      <figure>
+      <img src="Image/common/elastOS-apk.jpg" width=180 height=350>
+      <img src="Image/en/elastOS-home.jpg" width=180 height=350>
+      </figure>
 
   * Open "Capsule Marketplace",enter "Feeds" in the search box, and click "INSTALL".
 
-   <figure>
-   <img src="Image/en/elastOS-market.jpg" width=180 height=350>
-   </figure>
+      <figure>
+      <img src="Image/en/elastOS-market.jpg" width=180 height=350>
+      </figure>
 
   * Under "Recent Capsules", click "Favorites" in the right hand menu to add Feeds to Favorites. Feeds will appear on the main interface of elastOS for subsequent use.
 
-   <figure>
-   <img src="Image/en/elastOS-fav.jpg" width=180 height=350>
-   <img src="Image/en/elastOS-home2.jpg" width=180 height=350>
-   </figure>
+      <figure>
+      <img src="Image/en/elastOS-fav.jpg" width=180 height=350>
+      <img src="Image/en/elastOS-home2.jpg" width=180 height=350>
+      </figure>
 
 ## 3. How to Add a Feed source？
 
@@ -73,10 +73,10 @@ By default, Feeds does not provide any Feeds sources; users must find the desire
 
 3. Click to enter the "Feeds Sources" interface. If a Feed Source has not already been bound or added, click "Add an existing Feed Source" on the picture below-left; if it has been added, click "Add a New Feed Source" on the picture below-right.
 
-<figure>
+   <figure>
    <img src="Image/en/feedsadd-2.jpg" width=180 height=350>
    <img src="Image/en/feedsadd-3.jpg" width=180 height=350>
-</figure>
+   </figure>
 
 4. Enter the"AddaFeedSource"interface.You can add Feed sources in the following two ways:
 
@@ -85,10 +85,10 @@ By default, Feeds does not provide any Feeds sources; users must find the desire
 
   After confirming that it is correct, click "Add a Feed Source",the FeedSource is added successfully.
 
-<figure>
+   <figure>
    <img src="Image/en/feedsadd-4.jpg" width=180 height=350>
    <img src="Image/en/feedsadd-5.jpg" width=180 height=350>
-</figure>
+   </figure>
 
 5. After the FeedSource is successfully added, you will see the newly added FeedSource on the Feeds Sources interface.
 
@@ -96,10 +96,10 @@ By default, Feeds does not provide any Feeds sources; users must find the desire
 
 6. Enter the "Explore Feeds" interface and refresh the interface to load all the Feeds created under the added Feeds Sources. After following the Feeds, users can view all published posts by the following Feeds under "My Feeds Timeline". Users can publish Posts, like Posts from others, and add comments.
 
-<figure>
+   <figure>
    <img src="Image/en/feedsadd-7.jpg" width=180 height=350>
    <img src="Image/en/feedsadd-8.jpg" width=180 height=350>
-</figure>
+   </figure>
 
 ## 4. How to publish a Post？
 
@@ -125,10 +125,10 @@ Currently supports Mac and Linux debian distributions.
 
 * Clicking on the "Feeds Service" application icon will start the installation, and a running window will pop up, as shown below. Then, a page requesting a link will pop up at the same time. Click "Allow". If you are unable to open it, please refer to "FAQ" for troubleshooting.
 
-<figure>
+   <figure>
    <img src="Image/common/mac-0.png" width=260 height=180>
    <img src="Image/en/mac-1.png" width=260 height=150>
-</figure>
+   </figure>
 
 * Copy the URL link "[http://localhost:10080/](http://localhost:10080/ )" in the above window, paste in the browser, and open it. A QR code will be displayed, which will be scanned by the Feeds Capsule to bind the service.
 
@@ -188,17 +188,17 @@ Currently supports Mac and Linux debian distributions.
 
 1. Click the "+" button on the tab page below to initiate the process of binding the Feeds Source. The binding process can also be initiated by using the "Create a New Feed Source" option on the Feeds Sources interface;
 
-<figure>
+   <figure>
    <img src="Image/en/feedsbind-1.jpg" width=180 height=350>
    <img src="Image/en/feedsbind-2.jpg" width=180 height=350>
-</figure>
+   </figure>
 
 2. Click the scan icon in the middle of the page and scan the QR code of the browser page "[http://localhost:10080/](http://localhost:10080/)". The results are as follows:
 
-<figure>
+   <figure>
    <img src="Image/en/feedsbind-3.jpg" width=180 height=350>
    <img src="Image/en/feedsbind-4.jpg" width=180 height=350>
-</figure>
+   </figure>
 
 3. After confirming that it is correct, click the "Confirm" button to enter the next interface:
 
@@ -214,10 +214,10 @@ Currently supports Mac and Linux debian distributions.
 
 6. For an example, see the wallet screenshots below.
 
-<figure>
+   <figure>
    <img src="Image/en/feedsbind-8.jpg" width=180 height=350>
    <img src="Image/en/feedsbind-9.jpg" width=180 height=350>
-</figure>
+   </figure>
 
 7. After the transaction is initiated, the interface transitions to the FeedsCapsule, at which point a credential must be issued to the FeedSource.
 
@@ -225,17 +225,17 @@ Currently supports Mac and Linux debian distributions.
 
 8. Click the "Issue credentials" button, enter the name,description,and ELA Address of the FeedSource in the pop-up box, click "Confirm!", and click "Accept" on the redirected request,sign the Credential interface, and then the credential will be issued successfully.
 
-<figure>
+   <figure>
    <img src="Image/en/feedsbind-11.jpg" width=180 height=350>
    <img src="Image/en/feedsbind-12.jpg" width=180 height=350>
-</figure>
+   </figure>
 
 9. After the credential is issued successfully, the binding process is complete. Users can see the bound FeedsSource in the "My Feeds Sources" section of the Feeds Sources interface.
 
-<figure>
+   <figure>
    <img src="Image/en/feedsbind-13.jpg" width=180 height=350>
    <img src="Image/en/feedsbind-14.jpg" width=180 height=350>
-</figure>
+   </figure>
 
 ### 4.3 Create a Feed
 
@@ -245,10 +245,10 @@ Currently supports Mac and Linux debian distributions.
 
 2. After opening the creation interface, edit the name, description, and avatar of the Feeds, and then click "Create a Feed" and confirm the information to create a new, unique Feeds.
 
-<figure>
+   <figure>
    <img src="Image/en/feedscreate-2.jpg" width=180 height=350>
    <img src="Image/en/feedscreate-3.jpg" width=180 height=350>
-</figure>
+   </figure>
 
 3. After creation is complete, users can see the newly created Feeds under the My Feeds page. Users may create multiple Feeds to publish different types of Posts. When users want to create Feeds in the future, they can do so by clicking "Create a New Feed".
 
@@ -260,10 +260,10 @@ After the user has successfully created Feeds(s),aPost can be created.
 
 1. Click the "+" icon on the tab page, select the Feeds to publish to,and jump to theEdit page;
 
-<figure>
+   <figure>
    <img src="Image/en/post-1.jpg" width=180 height=350>
    <img src="Image/en/post-2.jpg" width=180 height=350>
-</figure>
+   </figure>
 
 2. Users can enter text or click "Add an image" to select a picture. After editing, click "Post" to complete publication.
 
@@ -334,10 +334,10 @@ Click to enter: System Preferences...->Security & Privacy->General, as shown in 
 
 Click "Open Anyway", and then continue to click "Open" in the pop-up confirmation interface to open the Feeds Service. Finally, click "Allow" on the pop-up request link.
 
-<figure>
-<img src="Image/en/q6-3.png" width=280 height=140>
-<img src="Image/en/q6-4.png" width=280 height=140>
-</figure>
+   <figure>
+   <img src="Image/en/q6-3.png" width=280 height=140>
+   <img src="Image/en/q6-4.png" width=280 height=140>
+   </figure>
 
 **Q7：Where are the data files for Feeds Service?**
 
