@@ -14,7 +14,7 @@ Feeds is a decentralized social networking platform dedicated to serving public 
 
 elastOS is available on the Google Play Store, and at QR code below.
 
-![Image](https://uploader.shimo.im/f/Cih3HPKzUVfTY5sF.png!thumbnail)
+![Image](Image/common/elastOS-android.png)
 
 ### 2.2 Download and install Feeds in elastOS
 
@@ -46,15 +46,15 @@ By default, Feeds does not provide any Feeds sources; users must find the desire
 
 * Feeds Dev
 
-  ![Image](https://uploader.shimo.im/f/RnSKMIl9lCdrs3gw.png!thumbnail)
+  ![Image](Image/common/FeedsDev.png)
 
 * elastOS
 
-  ![Image](https://uploader.shimo.im/f/ijrnPCNx2WDKo2UF.png!thumbnail)
+  ![Image](Image/common/elastOS.png)
 
 * Tuum Tech
 
-  ![Image](https://uploader.shimo.im/f/4nqXW0Dss5WHkPAR.png!thumbnail)
+  ![Image](Image/common/TuumTech.png)
 
 ### 3.2 Adding a Feed Source
 
