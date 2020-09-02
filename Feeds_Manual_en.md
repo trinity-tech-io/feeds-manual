@@ -34,7 +34,7 @@ elastOS is available on the Google Play Store, and at QR code below.
   * Open "Capsule Marketplace",enter "Feeds" in the search box, and click "INSTALL".
 
       <figure>
-      <img src="https://trinity-website-1256757303.cos.ap-shanghai.myqcloud.com/feeds-manual/https://trinity-website-1256757303.cos.ap-shanghai.myqcloud.com/feeds-manual/image/en/elastOS-market.jpg" width=180 height=350>
+      <img src="https://trinity-website-1256757303.cos.ap-shanghai.myqcloud.com/feeds-manual/image/en/elastOS-market.jpg" width=180 height=350>
       </figure>
 
   * Under "Recent Capsules", click "Favorites" in the right hand menu to add Feeds to Favorites. Feeds will appear on the main interface of elastOS for subsequent use.

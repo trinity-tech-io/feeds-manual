@@ -34,7 +34,7 @@ elastOS可在Google Play商店中以及扫描下面的QR码来下载安装
   * 打开“Capsule Marketplace”，在搜索框输入“Feeds”，找到后点击“INSTALL”安装。
 
       <figure>
-      <img src="https://trinity-website-1256757303.cos.ap-shanghai.myqcloud.com/feeds-manual/https://trinity-website-1256757303.cos.ap-shanghai.myqcloud.com/feeds-manual/image/zh/elastOS-market.jpg" width=180 height=350>
+      <img src="https://trinity-website-1256757303.cos.ap-shanghai.myqcloud.com/feeds-manual/image/zh/elastOS-market.jpg" width=180 height=350>
       </figure>
 
   * 在 “最近浏览” 下使用右侧菜单里的“收藏”来收藏微频。微频会出现在elastOS的主界面，方便后续使用。
