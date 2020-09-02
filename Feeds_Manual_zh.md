@@ -14,7 +14,7 @@
 
 elastOS可在Google Play商店中以及扫描下面的QR码来下载安装
 
-<img src="Image/common/elastOS-android.png" width="120" height="150">
+<img src="https://trinity-website-1256757303.cos.ap-shanghai.myqcloud.com/feeds-manual/image/common/elastOS-android.png" width="120" height="150">
 
 ### 2.2 安装微频
 
@@ -27,21 +27,21 @@ elastOS可在Google Play商店中以及扫描下面的QR码来下载安装
   * 在手机上点击elastOS图标，打开elastOS进入主页：
 
       <figure>
-      <img src="Image/common/elastOS-apk.jpg" width=180 height=350>
-      <img src="Image/zh/elastOS-home.jpg" width=180 height=350>
+      <img src="https://trinity-website-1256757303.cos.ap-shanghai.myqcloud.com/feeds-manual/image/common/elastOS-apk.jpg" width=180 height=350>
+      <img src="https://trinity-website-1256757303.cos.ap-shanghai.myqcloud.com/feeds-manual/image/zh/elastOS-home.jpg" width=180 height=350>
       </figure>
 
   * 打开“Capsule Marketplace”，在搜索框输入“Feeds”，找到后点击“INSTALL”安装。
 
       <figure>
-      <img src="Image/zh/elastOS-market.jpg" width=180 height=350>
+      <img src="https://trinity-website-1256757303.cos.ap-shanghai.myqcloud.com/feeds-manual/https://trinity-website-1256757303.cos.ap-shanghai.myqcloud.com/feeds-manual/image/zh/elastOS-market.jpg" width=180 height=350>
       </figure>
 
   * 在 “最近浏览” 下使用右侧菜单里的“收藏”来收藏微频。微频会出现在elastOS的主界面，方便后续使用。
 
       <figure>
-      <img src="Image/zh/elastOS-fav.jpg" width=180 height=350>
-      <img src="Image/zh/elastOS-home2.jpg" width=180 height=350>
+      <img src="https://trinity-website-1256757303.cos.ap-shanghai.myqcloud.com/feeds-manual/image/zh/elastOS-fav.jpg" width=180 height=350>
+      <img src="https://trinity-website-1256757303.cos.ap-shanghai.myqcloud.com/feeds-manual/image/zh/elastOS-home2.jpg" width=180 height=350>
       </figure>
 
 ## 3. 如何添加微频源？
@@ -54,28 +54,28 @@ elastOS可在Google Play商店中以及扫描下面的QR码来下载安装
 
 * FeedsDev
 
-  <img src="Image/common/FeedsDev.png" width=150 height=150>
+  <img src="https://trinity-website-1256757303.cos.ap-shanghai.myqcloud.com/feeds-manual/image/common/FeedsDev.png" width=150 height=150>
 
 * elastOS
 
-  <img src="Image/common/elastOS.png" width=150 height=150>
+  <img src="https://trinity-website-1256757303.cos.ap-shanghai.myqcloud.com/feeds-manual/image/common/elastOS.png" width=150 height=150>
 
 * Tuum Tech
 
-  <img src="Image/common/TuumTech.png" width=150 height=150>
+  <img src="https://trinity-website-1256757303.cos.ap-shanghai.myqcloud.com/feeds-manual/image/common/TuumTech.png" width=150 height=150>
 
 ### 3.2 添加微频源步骤
 
 1. 打开微频应用，用DID身份登录进入主页（图略；该DID身份需要上链，如果不清楚如何上链，请从“常见问题解答”中寻找答案）。
 2. 点击右上角图标，进入菜单页：
 
-   <img src="Image/zh/feedsadd-1.jpg" width=180 height=350>
+   <img src="https://trinity-website-1256757303.cos.ap-shanghai.myqcloud.com/feeds-manual/image/zh/feedsadd-1.jpg" width=180 height=350>
 
 3. 点击进入“微频源”界面，如果还未绑定或者添加过，就在下面左图上点击“添加微频源”；如果已添加过请点击下面右图上“添加新的微频源”。
 
    <figure>
-   <img src="Image/zh/feedsadd-2.jpg" width=180 height=350>
-   <img src="Image/zh/feedsadd-3.jpg" width=180 height=350>
+   <img src="https://trinity-website-1256757303.cos.ap-shanghai.myqcloud.com/feeds-manual/image/zh/feedsadd-2.jpg" width=180 height=350>
+   <img src="https://trinity-website-1256757303.cos.ap-shanghai.myqcloud.com/feeds-manual/image/zh/feedsadd-3.jpg" width=180 height=350>
    </figure>
 
 4. 进入添加微频源界面，可通过以下两种方式添加微频源：
@@ -86,19 +86,19 @@ elastOS可在Google Play商店中以及扫描下面的QR码来下载安装
   确认无误后，点击“添加微频源”，则微频源添加成功。
 
    <figure>
-   <img src="Image/zh/feedsadd-4.jpg" width=180 height=350>
-   <img src="Image/zh/feedsadd-5.jpg" width=180 height=350>
+   <img src="https://trinity-website-1256757303.cos.ap-shanghai.myqcloud.com/feeds-manual/image/zh/feedsadd-4.jpg" width=180 height=350>
+   <img src="https://trinity-website-1256757303.cos.ap-shanghai.myqcloud.com/feeds-manual/image/zh/feedsadd-5.jpg" width=180 height=350>
    </figure>
 
 5. 微频源添加成功后，可在微频源界面看到新添加的微频源。
 
-   <img src="Image/zh/feedsadd-6.jpg" width=180 height=350>
+   <img src="https://trinity-website-1256757303.cos.ap-shanghai.myqcloud.com/feeds-manual/image/zh/feedsadd-6.jpg" width=180 height=350>
 
 6. 进入探索微频源界面，刷新界面，可加载所有已添加的微频源下创建的所有微频。关注指定微频后，可以在“我的时间线”下查看到已关注的所有微频发布的微说。用户可以点赞微说，也可以对此微说添加微评。
 
    <figure>
-   <img src="Image/zh/feedsadd-7.jpg" width=180 height=350>
-   <img src="Image/zh/feedsadd-8.jpg" width=180 height=350>
+   <img src="https://trinity-website-1256757303.cos.ap-shanghai.myqcloud.com/feeds-manual/image/zh/feedsadd-7.jpg" width=180 height=350>
+   <img src="https://trinity-website-1256757303.cos.ap-shanghai.myqcloud.com/feeds-manual/image/zh/feedsadd-8.jpg" width=180 height=350>
    </figure>
 
 ## 4. 如何发布微说？
@@ -123,13 +123,13 @@ elastOS可在Google Play商店中以及扫描下面的QR码来下载安装
 
 * 下载后，解压打开是Feeds Service.app，如下所示：
 
-   <img src="Image/common/feedsService.png" width=140 height=170>
+   <img src="https://trinity-website-1256757303.cos.ap-shanghai.myqcloud.com/feeds-manual/image/common/feedsService.png" width=140 height=170>
 
 * 点击“Feeds Service”应用图标会启动安装，弹出一个运行窗口，如下所示，同时会弹出一个请求链接的页面，点击“允许”即可。（如果无法打开，请到“常见问题解答”中找解决办法）
 
    <figure>
-   <img src="Image/common/mac-0.png" width=260 height=180>
-   <img src="Image/zh/mac-1.png" width=260 height=150>
+   <img src="https://trinity-website-1256757303.cos.ap-shanghai.myqcloud.com/feeds-manual/image/common/mac-0.png" width=260 height=180>
+   <img src="https://trinity-website-1256757303.cos.ap-shanghai.myqcloud.com/feeds-manual/image/zh/mac-1.png" width=260 height=150>
    </figure>
 
 * 将上述窗口中的URL链接“[http://localhost:10080/](http://localhost:10080/)”拷贝到浏览器上打开，会显示一个二维码（该二维码等待微频 dapp 扫描来绑定该服务）。
@@ -148,19 +148,19 @@ elastOS可在Google Play商店中以及扫描下面的QR码来下载安装
 
    选中x86_64 debian/ubuntu对应的安装包进行下载且打开：
 
-   <img src="Image/common/Ubuntu-1.jpg" width=260 height=180>
+   <img src="https://trinity-website-1256757303.cos.ap-shanghai.myqcloud.com/feeds-manual/image/common/Ubuntu-1.jpg" width=260 height=180>
 
    下载完成后，自动进入“Ubuntu Software”中 对应的安装包界面：
 
-   <img src="Image/common/Ubuntu-2.jpg" width=260 height=180>
+   <img src="https://trinity-website-1256757303.cos.ap-shanghai.myqcloud.com/feeds-manual/image/common/Ubuntu-2.jpg" width=260 height=180>
 
    点击“Install”进行安装，根据提示输入计算机的密码：
 
-   <img src="Image/common/Ubuntu-3.jpg" width=300 height=140>
+   <img src="https://trinity-website-1256757303.cos.ap-shanghai.myqcloud.com/feeds-manual/image/common/Ubuntu-3.jpg" width=300 height=140>
 
    完成安装后，刚显示的安装包界面显示“Install”按钮变为“Remove”。
 
-   <img src="Image/common/Ubuntu-4.jpg" width=260 height=180>
+   <img src="https://trinity-website-1256757303.cos.ap-shanghai.myqcloud.com/feeds-manual/image/common/Ubuntu-4.jpg" width=260 height=180>
 
    在浏览器上打开链接：[http://localhost:10080/](http://localhost:10080/)，会显示一个二维码（该二维码等待Feeds dapp扫描来绑定该服务）。
 
@@ -195,70 +195,70 @@ elastOS可在Google Play商店中以及扫描下面的QR码来下载安装
 1. 点击下方tab页的 “+” 号按钮进入绑定微频源流程（或在微频源界面的“创建新的微频源”来开启绑定过程）；
 
    <figure>
-   <img src="Image/zh/feedsbind-1.jpg" width=180 height=350>
-   <img src="Image/zh/feedsbind-2.jpg" width=180 height=350>
+   <img src="https://trinity-website-1256757303.cos.ap-shanghai.myqcloud.com/feeds-manual/image/zh/feedsbind-1.jpg" width=180 height=350>
+   <img src="https://trinity-website-1256757303.cos.ap-shanghai.myqcloud.com/feeds-manual/image/zh/feedsbind-2.jpg" width=180 height=350>
    </figure>
 
 2. 点击页面中部的扫描图标，扫描刚搭建的浏览器页面“[http://localhost:10080/](http://localhost:10080/)”的二维码，结果如下：
 
    <figure>
-   <img src="Image/zh/feedsbind-3.jpg" width=180 height=350>
-   <img src="Image/zh/feedsbind-4.jpg" width=180 height=350>
+   <img src="https://trinity-website-1256757303.cos.ap-shanghai.myqcloud.com/feeds-manual/image/zh/feedsbind-3.jpg" width=180 height=350>
+   <img src="https://trinity-website-1256757303.cos.ap-shanghai.myqcloud.com/feeds-manual/image/zh/feedsbind-4.jpg" width=180 height=350>
    </figure>
 
 3. 确认无误后，点击“确认一致，继续”按钮，进入下一个界面：
 
-   <img src="Image/zh/feedsbind-5.jpg" width=180 height=350>
+   <img src="https://trinity-website-1256757303.cos.ap-shanghai.myqcloud.com/feeds-manual/image/zh/feedsbind-5.jpg" width=180 height=350>
 
 4. 点击“创建微频源新DID身份”按钮来生成服务的DID：
 
-   <img src="Image/zh/feedsbind-6.jpg" width=180 height=350>
+   <img src="https://trinity-website-1256757303.cos.ap-shanghai.myqcloud.com/feeds-manual/image/zh/feedsbind-6.jpg" width=180 height=350>
 
 5. 点击“提交DID侧链发布”按钮，选择将服务的DID上链。可以选择使用Wallet或者Assist来做上链操作。
 
-   <img src="Image/zh/feedsbind-7.jpg" width=180 height=350>
+   <img src="https://trinity-website-1256757303.cos.ap-shanghai.myqcloud.com/feeds-manual/image/zh/feedsbind-7.jpg" width=180 height=350>
 
 6. 此处以钱包为例来说明。
 
    <figure>
-   <img src="Image/zh/feedsbind-8.jpg" width=180 height=350>
-   <img src="Image/zh/feedsbind-9.jpg" width=180 height=350>
+   <img src="https://trinity-website-1256757303.cos.ap-shanghai.myqcloud.com/feeds-manual/image/zh/feedsbind-8.jpg" width=180 height=350>
+   <img src="https://trinity-website-1256757303.cos.ap-shanghai.myqcloud.com/feeds-manual/image/zh/feedsbind-9.jpg" width=180 height=350>
    </figure>
 
 7. 交易发起后，界面跳转至微频应用里，接着需要给微频源颁发凭证。
 
-   <img src="Image/zh/feedsbind-10.jpg" width=180 height=350>
+   <img src="https://trinity-website-1256757303.cos.ap-shanghai.myqcloud.com/feeds-manual/image/zh/feedsbind-10.jpg" width=180 height=350>
 
 8. 点击“颁发新凭证”按钮，在弹框里输入微频源的名称、描述、ELA钱包地址，点击“确认”，在跳转的请求签名凭证界面上点击“接受”，则凭证颁发成功。
 
    <figure>
-   <img src="Image/zh/feedsbind-11.jpg" width=180 height=350>
-   <img src="Image/zh/feedsbind-12.jpg" width=180 height=350>
+   <img src="https://trinity-website-1256757303.cos.ap-shanghai.myqcloud.com/feeds-manual/image/zh/feedsbind-11.jpg" width=180 height=350>
+   <img src="https://trinity-website-1256757303.cos.ap-shanghai.myqcloud.com/feeds-manual/image/zh/feedsbind-12.jpg" width=180 height=350>
    </figure>
 
 9. 凭证颁发成功后，则绑定过程即完成。用户可以在微频源界面的“我的微频源”部分看到绑定的微频源。
 
    <figure>
-   <img src="Image/zh/feedsbind-13.jpg" width=180 height=350>
-   <img src="Image/zh/feedsbind-14.jpg" width=180 height=350>
+   <img src="https://trinity-website-1256757303.cos.ap-shanghai.myqcloud.com/feeds-manual/image/zh/feedsbind-13.jpg" width=180 height=350>
+   <img src="https://trinity-website-1256757303.cos.ap-shanghai.myqcloud.com/feeds-manual/image/zh/feedsbind-14.jpg" width=180 height=350>
     </figure>
 
 ### 4.3 创建微频
 
 1. 用户可以通过点击tab页上的“+”号图标进入“创建微频”界面；也可以通过“我的档案”界面下“我的微频”下的“创建微频”来进入。
 
-   <img src="Image/zh/feedscreate-1.jpg" width=180 height=350>
+   <img src="https://trinity-website-1256757303.cos.ap-shanghai.myqcloud.com/feeds-manual/image/zh/feedscreate-1.jpg" width=180 height=350>
 
 2. 打开创建界面后，分别编辑微频的名称、描述、以及头像，然后点击“创建微频”,确认信息后即可成功创建。
 
    <figure>
-   <img src="Image/zh/feedscreate-2.jpg" width=180 height=350>
-   <img src="Image/zh/feedscreate-3.jpg" width=180 height=350>
+   <img src="https://trinity-website-1256757303.cos.ap-shanghai.myqcloud.com/feeds-manual/image/zh/feedscreate-2.jpg" width=180 height=350>
+   <img src="https://trinity-website-1256757303.cos.ap-shanghai.myqcloud.com/feeds-manual/image/zh/feedscreate-3.jpg" width=180 height=350>
    </figure>
 
 3. 创建完成后，可以在“我的微频”页下面看到新创建的微频。用户可以创建多个微频，用来分别发布不同种类的微说。再次创建微频时，可以通过点击“创建新的微频”来创建。
 
-   <img src="Image/zh/feedscreate-4.jpg" width=180 height=350>
+   <img src="https://trinity-website-1256757303.cos.ap-shanghai.myqcloud.com/feeds-manual/image/zh/feedscreate-4.jpg" width=180 height=350>
 
 ### 4.4 发布微说
 
@@ -267,13 +267,13 @@ elastOS可在Google Play商店中以及扫描下面的QR码来下载安装
 1. 点击tab页上的“+”号图标，选择用来发布的微频后跳转到编辑页面；
 
    <figure>
-   <img src="Image/zh/post-1.jpg" width=180 height=350>
-   <img src="Image/zh/post-2.jpg" width=180 height=350>
+   <img src="https://trinity-website-1256757303.cos.ap-shanghai.myqcloud.com/feeds-manual/image/zh/post-1.jpg" width=180 height=350>
+   <img src="https://trinity-website-1256757303.cos.ap-shanghai.myqcloud.com/feeds-manual/image/zh/post-2.jpg" width=180 height=350>
    </figure>
 
 2. 可以输入文字，也可以通过点击“添加图片”选择图片，编辑完毕后点击“发布”即可完成发布。
 
-   <img src="Image/zh/post-3.jpg" width=180 height=350>
+   <img src="https://trinity-website-1256757303.cos.ap-shanghai.myqcloud.com/feeds-manual/image/zh/post-3.jpg" width=180 height=350>
 
    可以在“我的时间线”页面看到新发布的微频，关注该微频的用户均可查看到。
 
@@ -322,7 +322,7 @@ elastOS可在Google Play商店中以及扫描下面的QR码来下载安装
 
 **Q6：Feeds Service 应用在Mac上启动时报错：**
 
-<img src="Image/zh/q6-1.png" width=280 height=140>
+<img src="https://trinity-website-1256757303.cos.ap-shanghai.myqcloud.com/feeds-manual/image/zh/q6-1.png" width=280 height=140>
 
 **如何解决该问题？**
 
@@ -330,13 +330,13 @@ elastOS可在Google Play商店中以及扫描下面的QR码来下载安装
 
 依次点击进入：系统偏好设置..->安全性与隐私->通用，如下图所示：
 
-<img src="Image/zh/q6-2.png" width=200 height=200>
+<img src="https://trinity-website-1256757303.cos.ap-shanghai.myqcloud.com/feeds-manual/image/zh/q6-2.png" width=200 height=200>
 
 点击“仍要打开”，然后在弹出的确认打开界面继续点击“打开”，则会打开Feeds Service，然后在弹出的请求链接上点击“允许”即可。
 
    <figure>
-   <img src="Image/zh/q6-3.png" width=280 height=140>
-   <img src="Image/zh/q6-4.png" width=280 height=140>
+   <img src="https://trinity-website-1256757303.cos.ap-shanghai.myqcloud.com/feeds-manual/image/zh/q6-3.png" width=280 height=140>
+   <img src="https://trinity-website-1256757303.cos.ap-shanghai.myqcloud.com/feeds-manual/image/zh/q6-4.png" width=280 height=140>
    </figure>
 
 **Q7：Feeds Service服务的数据文件在哪里？**
@@ -345,7 +345,7 @@ elastOS可在Google Play商店中以及扫描下面的QR码来下载安装
 
 该服务是运行在本地的，数据库文件默认是存储在home下的“.feedsd/”。
 
-<img src="Image/common/q7.png" width=300 height=15>
+<img src="https://trinity-website-1256757303.cos.ap-shanghai.myqcloud.com/feeds-manual/image/common/q7.png" width=300 height=15>
 
 删除该数据库文件，则该服务所创建的微频以及发送的微说全部丢失。
 

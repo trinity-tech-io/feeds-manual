@@ -14,7 +14,7 @@ Feeds is a decentralized social networking platform dedicated to serving public 
 
 elastOS is available on the Google Play Store, and at QR code below.
 
-<img src="Image/common/elastOS-android.png" width="120" height="150">
+<img src="https://trinity-website-1256757303.cos.ap-shanghai.myqcloud.com/feeds-manual/image/common/elastOS-android.png" width="120" height="150">
 
 ### 2.2 Download and install Feeds in elastOS
 
@@ -27,21 +27,21 @@ elastOS is available on the Google Play Store, and at QR code below.
   * Click the elastOS icon to open elastOS and land on the homepage:
 
       <figure>
-      <img src="Image/common/elastOS-apk.jpg" width=180 height=350>
-      <img src="Image/en/elastOS-home.jpg" width=180 height=350>
+      <img src="https://trinity-website-1256757303.cos.ap-shanghai.myqcloud.com/feeds-manual/image/common/elastOS-apk.jpg" width=180 height=350>
+      <img src="https://trinity-website-1256757303.cos.ap-shanghai.myqcloud.com/feeds-manual/image/en/elastOS-home.jpg" width=180 height=350>
       </figure>
 
   * Open "Capsule Marketplace",enter "Feeds" in the search box, and click "INSTALL".
 
       <figure>
-      <img src="Image/en/elastOS-market.jpg" width=180 height=350>
+      <img src="https://trinity-website-1256757303.cos.ap-shanghai.myqcloud.com/feeds-manual/https://trinity-website-1256757303.cos.ap-shanghai.myqcloud.com/feeds-manual/image/en/elastOS-market.jpg" width=180 height=350>
       </figure>
 
   * Under "Recent Capsules", click "Favorites" in the right hand menu to add Feeds to Favorites. Feeds will appear on the main interface of elastOS for subsequent use.
 
       <figure>
-      <img src="Image/en/elastOS-fav.jpg" width=180 height=350>
-      <img src="Image/en/elastOS-home2.jpg" width=180 height=350>
+      <img src="https://trinity-website-1256757303.cos.ap-shanghai.myqcloud.com/feeds-manual/image/en/elastOS-fav.jpg" width=180 height=350>
+      <img src="https://trinity-website-1256757303.cos.ap-shanghai.myqcloud.com/feeds-manual/image/en/elastOS-home2.jpg" width=180 height=350>
       </figure>
 
 ## 3. How to Add a Feed source？
@@ -54,28 +54,28 @@ By default, Feeds does not provide any Feeds sources; users must find the desire
 
 * FeedsDev
 
-  <img src="Image/common/FeedsDev.png" width=150 height=150>
+  <img src="https://trinity-website-1256757303.cos.ap-shanghai.myqcloud.com/feeds-manual/image/common/FeedsDev.png" width=150 height=150>
 
 * elastOS
 
-  <img src="Image/common/elastOS.png" width=150 height=150>
+  <img src="https://trinity-website-1256757303.cos.ap-shanghai.myqcloud.com/feeds-manual/image/common/elastOS.png" width=150 height=150>
 
 * Tuum Tech
 
-  <img src="Image/common/TuumTech.png" width=150 height=150>
+  <img src="https://trinity-website-1256757303.cos.ap-shanghai.myqcloud.com/feeds-manual/image/common/TuumTech.png" width=150 height=150>
 
 ### 3.2 Adding a Feed Source
 
 1. Open the Feeds Capsule, use the DID login function to enter the homepage (the DID identity must be published on-chain. If you do not know how to publish it, please find the answer in the "FAQ" section).
 2. Click the icon in the upper right corner to enter the menu page:
 
-   <img src="Image/en/feedsadd-1.jpg" width=180 height=350>
+   <img src="https://trinity-website-1256757303.cos.ap-shanghai.myqcloud.com/feeds-manual/image/en/feedsadd-1.jpg" width=180 height=350>
 
 3. Click to enter the "Feeds Sources" interface. If a Feed Source has not already been bound or added, click "Add an existing Feed Source" on the picture below-left; if it has been added, click "Add a New Feed Source" on the picture below-right.
 
    <figure>
-   <img src="Image/en/feedsadd-2.jpg" width=180 height=350>
-   <img src="Image/en/feedsadd-3.jpg" width=180 height=350>
+   <img src="https://trinity-website-1256757303.cos.ap-shanghai.myqcloud.com/feeds-manual/image/en/feedsadd-2.jpg" width=180 height=350>
+   <img src="https://trinity-website-1256757303.cos.ap-shanghai.myqcloud.com/feeds-manual/image/en/feedsadd-3.jpg" width=180 height=350>
    </figure>
 
 4. Enter the"AddaFeedSource"interface.You can add Feed sources in the following two ways:
@@ -86,19 +86,19 @@ By default, Feeds does not provide any Feeds sources; users must find the desire
   After confirming that it is correct, click "Add a Feed Source",the FeedSource is added successfully.
 
    <figure>
-   <img src="Image/en/feedsadd-4.jpg" width=180 height=350>
-   <img src="Image/en/feedsadd-5.jpg" width=180 height=350>
+   <img src="https://trinity-website-1256757303.cos.ap-shanghai.myqcloud.com/feeds-manual/image/en/feedsadd-4.jpg" width=180 height=350>
+   <img src="https://trinity-website-1256757303.cos.ap-shanghai.myqcloud.com/feeds-manual/image/en/feedsadd-5.jpg" width=180 height=350>
    </figure>
 
 5. After the FeedSource is successfully added, you will see the newly added FeedSource on the Feeds Sources interface.
 
-   <img src="Image/en/feedsadd-6.jpg" width=180 height=350>
+   <img src="https://trinity-website-1256757303.cos.ap-shanghai.myqcloud.com/feeds-manual/image/en/feedsadd-6.jpg" width=180 height=350>
 
 6. Enter the "Explore Feeds" interface and refresh the interface to load all the Feeds created under the added Feeds Sources. After following the Feeds, users can view all published posts by the following Feeds under "My Feeds Timeline". Users can publish Posts, like Posts from others, and add comments.
 
    <figure>
-   <img src="Image/en/feedsadd-7.jpg" width=180 height=350>
-   <img src="Image/en/feedsadd-8.jpg" width=180 height=350>
+   <img src="https://trinity-website-1256757303.cos.ap-shanghai.myqcloud.com/feeds-manual/image/en/feedsadd-7.jpg" width=180 height=350>
+   <img src="https://trinity-website-1256757303.cos.ap-shanghai.myqcloud.com/feeds-manual/image/en/feedsadd-8.jpg" width=180 height=350>
    </figure>
 
 ## 4. How to publish a Post？
@@ -124,13 +124,13 @@ Currently supports Mac and Linux debian distributions.
 
 * After downloading, unzip and open the Feeds Service.app, as shown below:
 
-   <img src="Image/common/feedsService.png" width=140 height=170>
+   <img src="https://trinity-website-1256757303.cos.ap-shanghai.myqcloud.com/feeds-manual/image/common/feedsService.png" width=140 height=170>
 
 * Clicking on the "Feeds Service" application icon will start the installation, and a running window will pop up, as shown below. Then, a page requesting a link will pop up at the same time. Click "Allow". If you are unable to open it, please refer to "FAQ" for troubleshooting.
 
    <figure>
-   <img src="Image/common/mac-0.png" width=260 height=180>
-   <img src="Image/en/mac-1.png" width=260 height=150>
+   <img src="https://trinity-website-1256757303.cos.ap-shanghai.myqcloud.com/feeds-manual/image/common/mac-0.png" width=260 height=180>
+   <img src="https://trinity-website-1256757303.cos.ap-shanghai.myqcloud.com/feeds-manual/image/en/mac-1.png" width=260 height=150>
    </figure>
 
 * Copy the URL link "[http://localhost:10080/](http://localhost:10080/ )" in the above window, paste in the browser, and open it. A QR code will be displayed, which will be scanned by the Feeds Capsule to bind the service.
@@ -149,19 +149,19 @@ Currently supports Mac and Linux debian distributions.
 
    Select the installation package corresponding to x86_64 debian/ubuntu to download and open:
 
-   <img src="Image/common/Ubuntu-1.jpg" width=260 height=180>
+   <img src="https://trinity-website-1256757303.cos.ap-shanghai.myqcloud.com/feeds-manual/image/common/Ubuntu-1.jpg" width=260 height=180>
 
    After the download is complete, automatically enter the corresponding installation package interface in "Ubuntu Software":
 
-   <img src="Image/common/Ubuntu-2.jpg" width=260 height=180>
+   <img src="https://trinity-website-1256757303.cos.ap-shanghai.myqcloud.com/feeds-manual/image/common/Ubuntu-2.jpg" width=260 height=180>
 
    Click "Install", and enter the computer password as prompted:
 
-   <img src="Image/common/Ubuntu-3.jpg" width=300 height=140>
+   <img src="https://trinity-website-1256757303.cos.ap-shanghai.myqcloud.com/feeds-manual/image/common/Ubuntu-3.jpg" width=300 height=140>
 
    After the installation is complete, the installation package interface displayed above shows that the "Install" button changes to "Remove".
 
-   <img src="Image/common/Ubuntu-4.jpg" width=260 height=180>
+   <img src="https://trinity-website-1256757303.cos.ap-shanghai.myqcloud.com/feeds-manual/image/common/Ubuntu-4.jpg" width=260 height=180>
 
    Open the link on the browser:[http://localhost:10080/](http://localhost:10080/), and a QR code will be displayed, which is waiting for the Feeds Capsule to scan in order to bind the service.
 
@@ -196,70 +196,70 @@ Currently supports Mac and Linux debian distributions.
 1. Click the "+" button on the tab page below to initiate the process of binding the Feeds Source. The binding process can also be initiated by using the "Create a New Feed Source" option on the Feeds Sources interface;
 
    <figure>
-   <img src="Image/en/feedsbind-1.jpg" width=180 height=350>
-   <img src="Image/en/feedsbind-2.jpg" width=180 height=350>
+   <img src="https://trinity-website-1256757303.cos.ap-shanghai.myqcloud.com/feeds-manual/image/en/feedsbind-1.jpg" width=180 height=350>
+   <img src="https://trinity-website-1256757303.cos.ap-shanghai.myqcloud.com/feeds-manual/image/en/feedsbind-2.jpg" width=180 height=350>
    </figure>
 
 2. Click the scan icon in the middle of the page and scan the QR code of the browser page "[http://localhost:10080/](http://localhost:10080/)". The results are as follows:
 
    <figure>
-   <img src="Image/en/feedsbind-3.jpg" width=180 height=350>
-   <img src="Image/en/feedsbind-4.jpg" width=180 height=350>
+   <img src="https://trinity-website-1256757303.cos.ap-shanghai.myqcloud.com/feeds-manual/image/en/feedsbind-3.jpg" width=180 height=350>
+   <img src="https://trinity-website-1256757303.cos.ap-shanghai.myqcloud.com/feeds-manual/image/en/feedsbind-4.jpg" width=180 height=350>
    </figure>
 
 3. After confirming that it is correct, click the "Confirm" button to enter the next interface:
 
-   <img src="Image/en/feedsbind-5.jpg" width=180 height=350>
+   <img src="https://trinity-website-1256757303.cos.ap-shanghai.myqcloud.com/feeds-manual/image/en/feedsbind-5.jpg" width=180 height=350>
 
 4. Click the "Proceed to create a new DID" button to generate the Service DID:
 
-   <img src="Image/en/feedsbind-6.jpg" width=180 height=350>
+   <img src="https://trinity-website-1256757303.cos.ap-shanghai.myqcloud.com/feeds-manual/image/en/feedsbind-6.jpg" width=180 height=350>
 
 5. Click the "Publish on DID Sidechain" button to publish the DID of the Service on-chain. Users can choose to use Wallet or Assist to complete publication.
 
-   <img src="Image/en/feedsbind-7.jpg" width=180 height=350>
+   <img src="https://trinity-website-1256757303.cos.ap-shanghai.myqcloud.com/feeds-manual/image/en/feedsbind-7.jpg" width=180 height=350>
 
 6. For an example, see the wallet screenshots below.
 
    <figure>
-   <img src="Image/en/feedsbind-8.jpg" width=180 height=350>
-   <img src="Image/en/feedsbind-9.jpg" width=180 height=350>
+   <img src="https://trinity-website-1256757303.cos.ap-shanghai.myqcloud.com/feeds-manual/image/en/feedsbind-8.jpg" width=180 height=350>
+   <img src="https://trinity-website-1256757303.cos.ap-shanghai.myqcloud.com/feeds-manual/image/en/feedsbind-9.jpg" width=180 height=350>
    </figure>
 
 7. After the transaction is initiated, the interface transitions to the FeedsCapsule, at which point a credential must be issued to the FeedSource.
 
-   <img src="Image/en/feedsbind-10.jpg" width=180 height=350>
+   <img src="https://trinity-website-1256757303.cos.ap-shanghai.myqcloud.com/feeds-manual/image/en/feedsbind-10.jpg" width=180 height=350>
 
 8. Click the "Issue credentials" button, enter the name,description,and ELA Address of the FeedSource in the pop-up box, click "Confirm", and click "Accept" on the redirected request,sign the Credential interface, and then the credential will be issued successfully.
 
    <figure>
-   <img src="Image/en/feedsbind-11.jpg" width=180 height=350>
-   <img src="Image/en/feedsbind-12.jpg" width=180 height=350>
+   <img src="https://trinity-website-1256757303.cos.ap-shanghai.myqcloud.com/feeds-manual/image/en/feedsbind-11.jpg" width=180 height=350>
+   <img src="https://trinity-website-1256757303.cos.ap-shanghai.myqcloud.com/feeds-manual/image/en/feedsbind-12.jpg" width=180 height=350>
    </figure>
 
 9. After the credential is issued successfully, the binding process is complete. Users can see the bound FeedsSource in the "My Feeds Sources" section of the Feeds Sources interface.
 
    <figure>
-   <img src="Image/en/feedsbind-13.jpg" width=180 height=350>
-   <img src="Image/en/feedsbind-14.jpg" width=180 height=350>
+   <img src="https://trinity-website-1256757303.cos.ap-shanghai.myqcloud.com/feeds-manual/image/en/feedsbind-13.jpg" width=180 height=350>
+   <img src="https://trinity-website-1256757303.cos.ap-shanghai.myqcloud.com/feeds-manual/image/en/feedsbind-14.jpg" width=180 height=350>
    </figure>
 
 ### 4.3 Create a Feed
 
 1. Users can enter the Create Feeds interface by clicking the "+" icon on the tab page, or through the "Create a Feed"in"My Feeds",under the My Profile interface.
 
-   <img src="Image/en/feedscreate-1.jpg" width=180 height=350>
+   <img src="https://trinity-website-1256757303.cos.ap-shanghai.myqcloud.com/feeds-manual/image/en/feedscreate-1.jpg" width=180 height=350>
 
 2. After opening the creation interface, edit the name, description, and avatar of the Feeds, and then click "Create a Feed" and confirm the information to create a new, unique Feeds.
 
    <figure>
-   <img src="Image/en/feedscreate-2.jpg" width=180 height=350>
-   <img src="Image/en/feedscreate-3.jpg" width=180 height=350>
+   <img src="https://trinity-website-1256757303.cos.ap-shanghai.myqcloud.com/feeds-manual/image/en/feedscreate-2.jpg" width=180 height=350>
+   <img src="https://trinity-website-1256757303.cos.ap-shanghai.myqcloud.com/feeds-manual/image/en/feedscreate-3.jpg" width=180 height=350>
    </figure>
 
 3. After creation is complete, users can see the newly created Feeds under the My Feeds page. Users may create multiple Feeds to publish different types of Posts. When users want to create Feeds in the future, they can do so by clicking "Create a New Feed".
 
-   <img src="Image/en/feedscreate-4.jpg" width=180 height=350>
+   <img src="https://trinity-website-1256757303.cos.ap-shanghai.myqcloud.com/feeds-manual/image/en/feedscreate-4.jpg" width=180 height=350>
 
 ### 4.4 Create a Post
 
@@ -268,13 +268,13 @@ After the user has successfully created Feeds(s),aPost can be created.
 1. Click the "+" icon on the tab page, select the Feeds to publish to,and jump to theEdit page;
 
    <figure>
-   <img src="Image/en/post-1.jpg" width=180 height=350>
-   <img src="Image/en/post-2.jpg" width=180 height=350>
+   <img src="https://trinity-website-1256757303.cos.ap-shanghai.myqcloud.com/feeds-manual/image/en/post-1.jpg" width=180 height=350>
+   <img src="https://trinity-website-1256757303.cos.ap-shanghai.myqcloud.com/feeds-manual/image/en/post-2.jpg" width=180 height=350>
    </figure>
 
 2. Users can enter text or click "Add an image" to select a picture. After editing, click "Post" to complete publication.
 
-   <img src="Image/en/post-3.jpg" width=180 height=350>
+   <img src="https://trinity-website-1256757303.cos.ap-shanghai.myqcloud.com/feeds-manual/image/en/post-3.jpg" width=180 height=350>
 
    Users can see the newly released Feeds on the My Feeds Timeline page, and users who follow particular Feeds can view them.
 
@@ -329,7 +329,7 @@ The best method is to go through the binding process once again. This time, the 
 
 **Q6：The Feeds Service Capsule reports an error when launching on Mac:**
 
-<img src="Image/en/q6-1.png" width=280 height=140>
+<img src="https://trinity-website-1256757303.cos.ap-shanghai.myqcloud.com/feeds-manual/image/en/q6-1.png" width=280 height=140>
 
 **How do I solve this problem?**
 
@@ -337,13 +337,13 @@ The best method is to go through the binding process once again. This time, the 
 
 Click to enter: System Preferences...->Security & Privacy->General, as shown in the figure below:
 
-<img src="Image/en/q6-2.png" width=200 height=200>
+<img src="https://trinity-website-1256757303.cos.ap-shanghai.myqcloud.com/feeds-manual/image/en/q6-2.png" width=200 height=200>
 
 Click "Open Anyway", and then continue to click "Open" in the pop-up confirmation interface to open the Feeds Service. Finally, click "Allow" on the pop-up request link.
 
    <figure>
-   <img src="Image/en/q6-3.png" width=280 height=140>
-   <img src="Image/en/q6-4.png" width=280 height=140>
+   <img src="https://trinity-website-1256757303.cos.ap-shanghai.myqcloud.com/feeds-manual/image/en/q6-3.png" width=280 height=140>
+   <img src="https://trinity-website-1256757303.cos.ap-shanghai.myqcloud.com/feeds-manual/image/en/q6-4.png" width=280 height=140>
    </figure>
 
 **Q7：Where are the data files for Feeds Service?**
@@ -352,7 +352,7 @@ Click "Open Anyway", and then continue to click "Open" in the pop-up confirmatio
 
 The service is running locally, and the database file is stored in ".feedsd/" under home by default.
 
-<img src="Image/common/q7.png" width=300 height=15>
+<img src="https://trinity-website-1256757303.cos.ap-shanghai.myqcloud.com/feeds-manual/image/common/q7.png" width=300 height=15>
 
 If the database file is deleted, the Feeds created by the service - as well as the posts sent by the service - are all lost.
 
