@@ -5,17 +5,17 @@
 <details open = “open”>
 <summary> Directory </summary>
 
-&emsp;&emsp;[1. Introduction](#des)
+&emsp;[1. Introduction](#des)
 
-<details style="margin-left:13px">
+<details>
 
 [<summary>2. How to Install Feeds</summary>](#howtoinstallfeeds)
 
-&emsp;&emsp;[2.1 App Store](#appstore)
+&emsp;[2.1 App Store](#appstore)
 
-&emsp;&emsp;[2.2 Google Play](#googleplay)
+&emsp;[2.2 Google Play](#googleplay)
 
-<details style="margin-left:13px">
+<details>
 
 [<summary>2.3 elastOS Capsule Market</summary>](#elastoscapsulemarket)
 
@@ -25,20 +25,20 @@
 
 </details>
 </details>
-<details style="margin-left:13px">
+<details>
 
 [<summary>3. How to Follow a Feed？</summary>](#howtofollowfeed)
 
-&emsp;&emsp;[3.1 Follow public Feeds](#followpublicfeed)
+&emsp;[3.1 Follow public Feeds](#followpublicfeed)
 
-&emsp;&emsp;[3.2 Follow Feed with QR code](#followfeedwithqrcode)
+&emsp;[3.2 Follow Feed with QR code](#followfeedwithqrcode)
 
 </details>
-<details style="margin-left:13px">
+<details>
 
 [<summary>4. How to publish a Post？</summary>](#howtopost)
 
-<details style="margin-left:13px">
+<details>
 
 [<summary>4.1 Start Feeds Service</summary>](#startservice)
 
@@ -52,30 +52,30 @@
 
 </details>
 
-&emsp;&emsp;[4.2 Bind Feeds Publisher Account](#bindpublisheraccount)
+&emsp;[4.2 Bind Feeds Publisher Account](#bindpublisheraccount)
 
-&emsp;&emsp;[4.3 Create a Feed](#createfeed)
+&emsp;[4.3 Create a Feed](#createfeed)
 
-&emsp;&emsp;[4.4 Create a Post](#post)
+&emsp;[4.4 Create a Post](#post)
 
 </details>
-<details style="margin-left:13px">
+<details>
 
 [<summary>5. Other features</summary>](#otherfeature)
 
-&emsp;&emsp;[5.1 Check user details](#checkuserinfo)
+&emsp;[5.1 Check user details](#checkuserinfo)
 
-&emsp;&emsp;[5.2 Check Feed details](#checkfeedinfo)
+&emsp;[5.2 Check Feed details](#checkfeedinfo)
 
-&emsp;&emsp;[5.3 Make Feed public](#publicfeed)
+&emsp;[5.3 Make Feed public](#publicfeed)
 
-&emsp;&emsp;[5.4 Update Publisher Account](#updatepublisheraccount)
+&emsp;[5.4 Update Publisher Account](#updatepublisheraccount)
 
-&emsp;&emsp;[5.5 Update Feed Details](#updatefeedinfo)
+&emsp;[5.5 Update Feed Details](#updatefeedinfo)
 
 </details>
 
-&emsp;&emsp;[6. FAQ](#faq)
+&emsp;[6. FAQ](#faq)
 
 </details>
 

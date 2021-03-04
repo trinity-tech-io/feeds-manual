@@ -5,17 +5,17 @@
 <details open = “open”>
 <summary> 目录 </summary>
 
-&emsp;&emsp;[1. 简介](#des)
+&emsp;[1. 简介](#des)
 
-<details style="margin-left:13px">
+<details>
 
 [<summary>2. 如何安装Feeds？</summary>](#howtoinstallfeeds)
 
-&emsp;&emsp;[2.1 App Store](#appstore)
+&emsp;[2.1 App Store](#appstore)
 
-&emsp;&emsp;[2.2 Google Play](#googleplay)
+&emsp;[2.2 Google Play](#googleplay)
 
-<details style="margin-left:13px">
+<details>
 
 [<summary>2.3 elastOS Capsule Market</summary>](#elastoscapsulemarket)
 
@@ -25,20 +25,20 @@
 
 </details>
 </details>
-<details style="margin-left:13px">
+<details>
 
 [<summary>3. 如何关注Feed？</summary>](#howtofollowfeed)
 
-&emsp;&emsp;[3.1 关注已公开的Feed](#followpublicfeed)
+&emsp;[3.1 关注已公开的Feed](#followpublicfeed)
 
-&emsp;&emsp;[3.2 通过Feed 二维码来关注](#followfeedwithqrcode)
+&emsp;[3.2 通过Feed 二维码来关注](#followfeedwithqrcode)
 
 </details>
-<details style="margin-left:13px">
+<details>
 
 [<summary>4. 如何发布微说？</summary>](#howtopost)
 
-<details style="margin-left:13px">
+<details>
 
 [<summary>4.1 启动服务</summary>](#startservice)
 
@@ -52,30 +52,30 @@
 
 </details>
 
-&emsp;&emsp;[4.2 绑定Feeds出版号](#bindpublisheraccount)
+&emsp;[4.2 绑定Feeds出版号](#bindpublisheraccount)
 
-&emsp;&emsp;[4.3 创建Feed](#createfeed)
+&emsp;[4.3 创建Feed](#createfeed)
 
-&emsp;&emsp;[4.4 发布微说](#post)
+&emsp;[4.4 发布微说](#post)
 
 </details>
-<details style="margin-left:13px">
+<details>
 
 [<summary>5. 其他功能介绍</summary>](#elsefeature)
 
-&emsp;&emsp;[5.1 查看用户的信息](#checkuserinfo)
+&emsp;[5.1 查看用户的信息](#checkuserinfo)
 
-&emsp;&emsp;[5.2 查看Feed的信息](#checkfeedinfo)
+&emsp;[5.2 查看Feed的信息](#checkfeedinfo)
 
-&emsp;&emsp;[5.3 公开Feed](#publicfeed)
+&emsp;[5.3 公开Feed](#publicfeed)
 
-&emsp;&emsp;[5.4 修改出版号信息](#updatepublisheraccount)
+&emsp;[5.4 修改出版号信息](#updatepublisheraccount)
 
-&emsp;&emsp;[5.5 修改Feed信息](#updatefeedinfo)
+&emsp;[5.5 修改Feed信息](#updatefeedinfo)
 
 </details>
 
-&emsp;&emsp;[6. 常见问题解答](#faq)
+&emsp;[6. 常见问题解答](#faq)
 
 </details>
 
