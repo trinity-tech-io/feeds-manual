@@ -33,6 +33,8 @@
 
 &emsp;[3.2 通过Feed 二维码来关注](#followfeedwithqrcode)
 
+&emsp;[3.3 通过Feed url来关注](#followfeedwithfeedurl)
+
 </details>
 <details>
 
@@ -100,7 +102,7 @@ Feeds是一个社交网络平台，致力于服务公众对话，允许用户将
 iOS用户：可以在App Store中以及扫描下面的二维码在iOS平台安装。
 
    <figure>
-   <img src="https://trinity-website-1256757303.cos.ap-shanghai.myqcloud.com/feeds-manual/image/common/ios.png" width="120" height="150">
+   <img src="image/common/ios.png" width="120" height="150">
    </figure>
 
 ### <span id = "googleplay">2.2 Google Play</span>
@@ -108,7 +110,7 @@ iOS用户：可以在App Store中以及扫描下面的二维码在iOS平台安�
 安卓用户：可以在Google Play中以及扫描下面的二维码在安卓平台安装。
 
    <figure>
-   <img src="https://trinity-website-1256757303.cos.ap-shanghai.myqcloud.com/feeds-manual/image/common/ios.png" width="120" height="150">
+   <img src="image/common/android.png" width="120" height="150">
    </figure>
 
 ### <span id = "elastoscapsulemarket">2.3 elastOS Capsule Market</span>
@@ -120,7 +122,7 @@ elastOS已安装，则请忽略这个步骤；否则继续。
 elastOS可在Google Play商店中以及扫描下面的二维码来下载安装
 
    <figure>
-   <img src="https://trinity-website-1256757303.cos.ap-shanghai.myqcloud.com/feeds-manual/image/common/elastOS-android.png" width="120" height="150">
+   <img src="image/common/elastOS-android.png" width="120" height="150">
    </figure>
 
 #### <span id = "installfeedsdapp">2.3.2 安装Feeds dapp</span>
@@ -128,52 +130,69 @@ elastOS可在Google Play商店中以及扫描下面的二维码来下载安装
 打开elastOS，进入主页后点击“Capsule Marketplace”图标，进入后找到“Feeds”点击“INSTALL”安装。
 
    <figure>
-   <img src="https://trinity-website-1256757303.cos.ap-shanghai.myqcloud.com/feeds-manual/image/zh/elastOS-home.jpg" width=180 height=350>
-   <img src="https://trinity-website-1256757303.cos.ap-shanghai.myqcloud.com/feeds-manual/image/zh/elastOS-market.jpg" width=180 height=350>
+   <img src="image/zh/elastOS-home.jpg" width=180 height=350>
+   <img src="image/zh/elastOS-market.jpg" width=180 height=350>
    </figure>
 
-安装完毕后在 “最近浏览” 下点击右侧菜单里的“收藏”来收藏Feeds。Feeds会出现在elastOS的主界面，方便后续使用。
+安装完毕后在 “最近浏览” 下找到“Feeds”，点击右侧菜单里的“收藏”将Feeds显示在elastOS的主界面，方便后续使用。
 
    <figure>
-   <img src="https://trinity-website-1256757303.cos.ap-shanghai.myqcloud.com/feeds-manual/image/zh/elastOS-fav.jpg" width=180 height=350>
-   <img src="https://trinity-website-1256757303.cos.ap-shanghai.myqcloud.com/feeds-manual/image/zh/elastOS-home2.jpg" width=180 height=350>
+   <img src="image/zh/elastOS-fav.jpg" width=180 height=350>
+   <img src="image/zh/elastOS-home2.jpg" width=180 height=350>
    </figure>
 
 ## <span id = "howtofollowfeed">3. 如何关注Feed？</span>
 
 如果用户只是想关注他人的Feed，查看他人发布的微说（即Post），就不需要部署服务和绑定Feeds出版号。
 
-Feeds中，用户可以通过两种方式关注Feed：
+Feeds中，用户可以通过三种方式关注Feed：
 
 * 关注已公开的Feed
 * 通过Feed二维码来关注
+* 通过Feed url来关注
 
-打开Feeds应用，用elastos的DID身份登录进入主页（图略；该DID身份需要上链，如果不清楚如何上链，请从“常见问题解答”中寻找答案）。
+打开Feeds应用，用elastos的DID身份登录进入主页（该DID身份需要上链，如果不清楚如何上链，请从“常见问题解答”中寻找答案）。
+
+   <figure>
+   <img src="image/zh/feedssign.jpg" width=180 height=350>
+   <img src="image/zh/feedshome.jpg" width=180 height=350>
+   </figure>
 
 点击界面右下方的搜索图标，进入“探索Feeds”页面：
 
-图示：
+   <figure>
+   <img src="image/zh/explorefeeds.jpg" width=180 height=350>
+   </figure>
 
 ### <span id = "followpublicfeed">3.1 关注已公开的Feed</span>
 
-在“探索Feeds”界面，选择一个Feed，点击进入该Feed的详情页：
-   图示：
+在“探索Feeds”界面，选择一个Feed，点击该Feed一栏后面的“关注”按钮，或者进入该Feed的详情页：
 
-点击“关注”按钮，等弹出提示：“关注 *** 成功”，则该Feed添加成功，Feed下的状态显示为“正在关注”。
+   <figure>
+   <img src="image/zh/feeddetail.jpg" width=180 height=350>
+   </figure>
+
+在详情页点击“关注”按钮，待弹出提示：“关注 ***（Feed名称） 成功”，则该Feed关注成功。
+
+成功关注Feed后，用户可以到“我的档案”->"关注"下查看已关注了哪些Feed。
+
+   <figure>
+   <img src="image/zh/feedsprofilefollowing.jpg" width=180 height=350>
+   </figure>
+
+在“我的时间线”下可以查看已关注的Feed所发布的微说。用户可以点赞微说，也可以对此微说添加微评。
+
+   <figure>
+   <img src="image/zh/feedstimeline.jpg" width=180 height=350>
+   </figure>
 
 ### <span id = "followfeedwithqrcode">3.2 通过Feed 二维码来关注</span>
 
-在“探索Feeds”界面，点击搜索框右侧的扫描图标可以扫描其他设备上的Feed二维码来关注对应的Feed。 或者点击搜索框右侧的图片图标，可以通过扫描本地保存的Feed二维码来关注对应的Feed。
+打开“探索Feeds”界面，点击搜索框右侧的扫描图标可以调起Scanner来扫描其他设备上的Feed二维码来关注对应的Feed。
 
-成功关注Feed后，可以在“我的时间线”下查看到已关注的Feed发布的微说。用户可以点赞微说，也可以对此微说添加微评。
+### <span id = "followfeedwithfeedurl">3.3 通过Feed url来关注</span>
 
-   <figure>
-   <img src="https://trinity-website-1256757303.cos.ap-shanghai.myqcloud.com/feeds-manual/image/zh/feedsadd-7.jpg" width=180 height=350>
-   <img src="https://trinity-website-1256757303.cos.ap-shanghai.myqcloud.com/feeds-manual/image/zh/feedsadd-8.jpg" width=180 height=350>
-   </figure>
-
-备注：
-   用户可以到“我的档案”->"关注"下查看已关注的Feed。
+打开“探索Feeds”界面，将某个Feed的Feed url粘贴到搜索框内，点击搜索，找到该Feed后将自动关注该Feed。
 
 ## <span id = "howtopost">4. 如何发布微说？</span>
 
@@ -193,7 +212,7 @@ Feeds服务目前支持 Mac 和 Linux 发行版 debian。请根据自己使用�
 
    在PC的浏览器上打开链接下载：
 
-   [Feeds.Service.app.macos.tar.gz](https://github.com/elastos-trinity/feeds-service/releases/download/release-v1.5.1/Feeds.Service.app.macos.zip)
+   [Feeds.Service.app.macos.tar.gz](https://github.com/elastos-trinity/feeds-service/releases/download/release-v1.1.0/Feeds.Service.app.macos.zip)
 
    [查找最新版本](https://github.com/elastos-trinity/feeds-service/releases/)
 
@@ -202,14 +221,14 @@ Feeds服务目前支持 Mac 和 Linux 发行版 debian。请根据自己使用�
 * 下载后，解压打开是Feeds Service.app，如下所示：
 
    <figure>
-   <img src="https://trinity-website-1256757303.cos.ap-shanghai.myqcloud.com/feeds-manual/image/common/feedsService.png" width=140 height=170>
+   <img src="image/common/feedsService.png" width=140 height=170>
    </figure>
 
 * 点击“Feeds Service”应用图标会启动安装，弹出一个运行窗口，如下所示，同时会弹出一个请求链接的页面，点击“允许”即可。（如果无法打开，请到“常见问题解答”中找解决办法）
 
    <figure>
-   <img src="https://trinity-website-1256757303.cos.ap-shanghai.myqcloud.com/feeds-manual/image/common/mac-0.png" width=260 height=180>
-   <img src="https://trinity-website-1256757303.cos.ap-shanghai.myqcloud.com/feeds-manual/image/zh/mac-1.png" width=260 height=150>
+   <img src="image/common/mac-0.png" width=260 height=180>
+   <img src="image/zh/mac-1.png" width=260 height=150>
    </figure>
 
 * 将上述窗口中的URL链接“[http://localhost:10080/](http://localhost:10080/)”拷贝到浏览器上打开，会显示一个二维码（该二维码等待Feeds dapp 扫描来绑定该服务）。
@@ -220,7 +239,7 @@ Feeds服务目前支持 Mac 和 Linux 发行版 debian。请根据自己使用�
 
    在浏览器上打开链接：
 
-   [feedsd_1.5.1_amd64_ubuntu_2004.deb](https://github.com/elastos-trinity/feeds-service/releases/download/release-v1.5.1/feedsd_1.5.1_amd64_ubuntu_2004.deb)
+   [feedsd_1.5.1_amd64_ubuntu_2004.deb](https://github.com/elastos-trinity/feeds-service/releases/download/release-v1.1.0/feedsd_1.1.0_amd64_ubuntu_2004.deb)
 
    [查找最新版本](https://github.com/elastos-trinity/feeds-service/releases/)
 
@@ -229,25 +248,25 @@ Feeds服务目前支持 Mac 和 Linux 发行版 debian。请根据自己使用�
    选中x86_64 debian/ubuntu对应的安装包进行下载且打开：
 
    <figure>
-   <img src="https://trinity-website-1256757303.cos.ap-shanghai.myqcloud.com/feeds-manual/image/common/Ubuntu-1.jpg" width=260 height=180>
+   <img src="image/common/Ubuntu-1.jpg" width=260 height=180>
    </figure>
 
    下载完成后，自动进入“Ubuntu Software”中 对应的安装包界面：
 
    <figure>
-   <img src="https://trinity-website-1256757303.cos.ap-shanghai.myqcloud.com/feeds-manual/image/common/Ubuntu-2.jpg" width=260 height=180>
+   <img src="image/common/Ubuntu-2.jpg" width=260 height=180>
    </figure>
 
    点击“Install”进行安装，根据提示输入计算机的密码：
 
    <figure>
-   <img src="https://trinity-website-1256757303.cos.ap-shanghai.myqcloud.com/feeds-manual/image/common/Ubuntu-3.jpg" width=300 height=140>
+   <img src="image/common/Ubuntu-3.jpg" width=300 height=140>
    </figure>
 
    完成安装后，刚显示的安装包界面显示“Install”按钮变为“Remove”。
 
    <figure>
-   <img src="https://trinity-website-1256757303.cos.ap-shanghai.myqcloud.com/feeds-manual/image/common/Ubuntu-4.jpg" width=260 height=180>
+   <img src="image/common/Ubuntu-4.jpg" width=260 height=180>
    </figure>
 
    在浏览器上打开链接：[http://localhost:10080/](http://localhost:10080/)，会显示一个二维码（该二维码等待Feeds dapp扫描来绑定该服务）。
@@ -258,7 +277,7 @@ Feeds服务目前支持 Mac 和 Linux 发行版 debian。请根据自己使用�
 
    打开链接下载：
 
-   [feedsd_1.5.1_armhf_raspbian.deb](https://github.com/elastos-trinity/feeds-service/releases/download/release-v1.5.1/feedsd_1.5.1_armhf_raspbian.deb)
+   [feedsd_1.5.1_armhf_raspbian.deb](https://github.com/elastos-trinity/feeds-service/releases/download/release-v1.1.0/feedsd_1.1.0_armhf_raspbian.deb)
 
    [查找最新版本](https://github.com/elastos-trinity/feeds-service/releases/)
 
@@ -283,104 +302,107 @@ Feeds服务目前支持 Mac 和 Linux 发行版 debian。请根据自己使用�
 
 ### <span id = "bindpublisheraccount">4.2 绑定Feeds出版号</span>
 
-1. 点击下方tab页的 “+” 号按钮进入绑定Feeds出版号流程（或通过点击 菜单->“出版号” 进入绑定Feeds出版号流程）；
+1. 在Feeds主页上，点击tab页的 “+” 号按钮进入绑定Feeds出版号流程（或通过点击图标 菜单->“出版号” 进入绑定Feeds出版号流程）；
 
    <figure>
-   <img src="https://trinity-website-1256757303.cos.ap-shanghai.myqcloud.com/feeds-manual/image/zh/feedsbind-1.jpg" width=180 height=350>
-   <img src="https://trinity-website-1256757303.cos.ap-shanghai.myqcloud.com/feeds-manual/image/zh/feedsbind-2.jpg" width=180 height=350>  需要改图
+   <img src="image/zh/feedshome.jpg" width=180 height=350>
+   <img src="image/zh/feedsmenu.jpg" width=180 height=350>
    </figure>
 
 2. 点击页面中部的扫描图标，扫描刚搭建的浏览器页面“[http://localhost:10080/](http://localhost:10080/)”的二维码，结果如下：
 
    <figure>
-   <img src="https://trinity-website-1256757303.cos.ap-shanghai.myqcloud.com/feeds-manual/image/zh/feedsbind-3.jpg" width=180 height=350>
-   <img src="https://trinity-website-1256757303.cos.ap-shanghai.myqcloud.com/feeds-manual/image/zh/feedsbind-4.jpg" width=180 height=350>
+   <img src="image/zh/feeds-bind1.jpg" width=180 height=350>
+   <img src="image/zh/feeds-bind2.jpg" width=180 height=350>
    </figure>
 
 3. 确认无误后，点击“确认一致，继续”按钮，进入下一个界面：
 
    <figure>
-   <img src="https://trinity-website-1256757303.cos.ap-shanghai.myqcloud.com/feeds-manual/image/zh/feedsbind-5.jpg" width=180 height=350>
+   <img src="image/zh/feeds-bind3.jpg" width=180 height=350>
    </figure>
 
 4. 点击“创建新DID身份”按钮来生成服务的DID：
 
    <figure>
-   <img src="https://trinity-website-1256757303.cos.ap-shanghai.myqcloud.com/feeds-manual/image/zh/feedsbind-6.jpg" width=180 height=350>
+   <img src="image/zh/feeds-bind4.jpg" width=180 height=350>
    </figure>
 
-5. 点击“提交DID侧链发布”按钮，选择将服务的DID上链。（可以选择使用Wallet或者Assist来做上链操作）。
+5. 点击“提交DID侧链发布”按钮，会跳转到Elastos，需将服务的DID上链。（可以选择使用Wallet或者Assist来做上链操作）。
 
    <figure>
-   <img src="https://trinity-website-1256757303.cos.ap-shanghai.myqcloud.com/feeds-manual/image/zh/feedsbind-7.jpg" width=180 height=350>
+   <img src="image/zh/feeds-bind4-1.jpg" width=180 height=350>
    </figure>
 
-6. 此处以钱包为例来说明。
+6. 此处以钱包为例来说明。如下图，点击“确定”输入主密码后，即完成上链操作。
 
    <figure>
-   <img src="https://trinity-website-1256757303.cos.ap-shanghai.myqcloud.com/feeds-manual/image/zh/feedsbind-8.jpg" width=180 height=350>
-   <img src="https://trinity-website-1256757303.cos.ap-shanghai.myqcloud.com/feeds-manual/image/zh/feedsbind-9.jpg" width=180 height=350>
+   <img src="image/zh/feeds-bind4-2.jpg" width=180 height=350>
    </figure>
 
-7. 交易发起后，界面跳转至Feeds应用里，接着需要给Feeds出版号颁发凭证。
+7. 发起上链交易后，界面跳回Feeds应用里，接着需要给Feeds出版号颁发凭证。
 
    <figure>
-   <img src="https://trinity-website-1256757303.cos.ap-shanghai.myqcloud.com/feeds-manual/image/zh/feedsbind-10.jpg" width=180 height=350>
+   <img src="image/zh/feeds-bind5.jpg" width=180 height=350>
    </figure>
 
 8. 点击“颁发新凭证”按钮，在弹框里输入Feeds出版号的名称、描述、ELA钱包地址，点击“确认”，在跳转的请求签名凭证界面上点击“接受”，则凭证颁发成功。
 
    <figure>
-   <img src="https://trinity-website-1256757303.cos.ap-shanghai.myqcloud.com/feeds-manual/image/zh/feedsbind-11.jpg" width=180 height=350>
-   <img src="https://trinity-website-1256757303.cos.ap-shanghai.myqcloud.com/feeds-manual/image/zh/feedsbind-12.jpg" width=180 height=350>
+   <img src="image/zh/feeds-bind5-1.jpg" width=180 height=350>
+   <img src="image/zh/feeds-bind5-2.jpg" width=180 height=350>
    </figure>
 
 9. 凭证颁发成功后，则绑定过程即完成。用户可以在菜单->"出版号"界面看到该Feeds出版号的相关信息。
 
    <figure>
-   <img src="https://trinity-website-1256757303.cos.ap-shanghai.myqcloud.com/feeds-manual/image/zh/feedsbind-13.jpg" width=180 height=350>
-   <img src="https://trinity-website-1256757303.cos.ap-shanghai.myqcloud.com/feeds-manual/image/zh/feedsbind-14.jpg" width=180 height=350> 换图
+   <img src="image/zh/feeds-bind6.jpg" width=180 height=350>
+   <img src="image/zh/feeds-bind6-1.jpg" width=180 height=350>
     </figure>
 
 ### <span id = "createfeed">4.3 创建Feed</span>
 
-1. 用户可以通过点击tab页上的“+”号图标进入“创建Feed”界面；也可以通过“我的档案”界面下“我的Feeds”下的“创建Feed”来进入。
+1. 用户可以通过点击tab页上的“+”号图标进入“创建新的Feed”界面；也可以通过“我的档案”界面下“我的Feeds”下的“创建Feeds”或者“创建新的Feed”来进入。
 
    <figure>
-   <img src="https://trinity-website-1256757303.cos.ap-shanghai.myqcloud.com/feeds-manual/image/zh/feedscreate-1.jpg" width=180 height=350>
+   <img src="image/zh/feeds-create1.jpg" width=180 height=350>
    </figure>
 
-2. 打开创建界面后，分别编辑Feed的名称、描述、以及头像，然后点击“创建Feed”,确认信息后即可成功创建。
+2. 打开创建界面后，分别编辑Feed的名称、描述、以及头像，然后点击“创建Feed”，确认信息后即可成功创建。
 
    <figure>
-   <img src="https://trinity-website-1256757303.cos.ap-shanghai.myqcloud.com/feeds-manual/image/zh/feedscreate-2.jpg" width=180 height=350>
-   <img src="https://trinity-website-1256757303.cos.ap-shanghai.myqcloud.com/feeds-manual/image/zh/feedscreate-3.jpg" width=180 height=350>
+   <img src="image/zh/feeds-create2.jpg" width=180 height=350>
+   <img src="image/zh/feeds-create3.jpg" width=180 height=350>
    </figure>
 
-3. 创建完成后，可以在“我的Feeds”页下面看到新创建的Feed。用户可以创建多个Feed，用来分别发布不同种类的微说。再次创建Feed时，可以通过点击“创建新的Feed”来创建。
+3. 创建完成后，可以在“我的Feeds”页下面看到新创建的Feed。用户最多可以创建5个Feed，用来分别发布不同种类的微说。再次创建Feed时，可以通过点击“创建新的Feed”来创建。
 
    <figure>
-   <img src="https://trinity-website-1256757303.cos.ap-shanghai.myqcloud.com/feeds-manual/image/zh/feedscreate-4.jpg" width=180 height=350>
+   <img src="image/zh/feeds-create4.jpg" width=180 height=350>
    </figure>
 
 ### <span id = "post">4.4 发布微说</span>
 
 用户创建Feed成功后，即可开始发布微说。
 
-1. 点击tab页上的“+”号图标，跳转到创建Post页面。 默认选中的是用户创建的第一个Feed来发布，用户可以在创建Post界面更换Feed。
+1. 进入Feeds主页，点击tab页上的“+”号图标，跳转到创建Post页面，默认选中的是用户创建的第一个Feed来发布。在创建Post界面，点击Feed名称后面的“V”图标，会弹出Feed列表菜单，用户可以在此更换Feed来发布Post。
 
    <figure>
-   <img src="https://trinity-website-1256757303.cos.ap-shanghai.myqcloud.com/feeds-manual/image/zh/post-1.jpg" width=180 height=350>
-   <img src="https://trinity-website-1256757303.cos.ap-shanghai.myqcloud.com/feeds-manual/image/zh/post-2.jpg" width=180 height=350>
+   <img src="image/zh/feeds-post1.jpg" width=180 height=350>
+   <img src="image/zh/feeds-post2.jpg" width=180 height=350>
    </figure>
 
 2. 目前创建的Post的类型已支持文字、图片（即将支持九宫格），视频等。信息编辑完毕后点击“发布”即可完成发布。
 
    <figure>
-   <img src="https://trinity-website-1256757303.cos.ap-shanghai.myqcloud.com/feeds-manual/image/zh/post-3.jpg" width=180 height=350>
+   <img src="image/zh/feeds-post3.jpg" width=180 height=350>
    </figure>
 
    可以在“我的时间线”页面看到新发布的Feeds，关注该Feeds的用户均可查看到。
+
+   <figure>
+   <img src="image/zh/feeds-post4.jpg" width=180 height=350>
+   </figure>
 
 ## <span id = "elsefeature">5. 其他功能介绍</span>
 
@@ -405,7 +427,10 @@ Feeds服务目前支持 Mac 和 Linux 发行版 debian。请根据自己使用�
 
 点击 菜单->“出版号详情”，打开出版号详情页，页面下方会显示您自己创建的Feed，选中Feed，点击后面的按钮来切换状态使其公开。
 
-图
+   <figure>
+   <img src="image/zh/feeds-public1.jpg" width=180 height=350>
+   <img src="image/zh/feeds-public2.jpg" width=180 height=350>
+   </figure>
 
 ### <span id = "updatepublisheraccount">5.4 修改出版号信息</span>
 
@@ -415,7 +440,9 @@ Feeds服务目前支持 Mac 和 Linux 发行版 debian。请根据自己使用�
 
 点击 菜单->“出版号详情”，打开出版号详情页；点击右上角的修改图标，进入“编辑出版号”界面，编辑完毕后，点击“保存”，需跳转到elastOS重新颁发证书。证书颁发完毕，则修改结束。
 
-图
+   <figure>
+   <img src="image/zh/feeds-updateaccount.jpg" width=180 height=350>
+   </figure>
 
 ### <span id = "updatefeedinfo">5.5 修改Feed信息</span>
 
@@ -425,7 +452,10 @@ Feeds服务目前支持 Mac 和 Linux 发行版 debian。请根据自己使用�
 
 点击Feed头像打开Feed的已发布信息页，再点击该页面的Feed头像进入Feed详情页，点击右上角的修改图标，进入“编辑Feed信息”页，编辑完毕后，点击“保存”，则修改结束。
 
-图
+   <figure>
+   <img src="image/zh/feeds-updatefeed1.jpg" width=180 height=350>
+   <img src="image/zh/feeds-updatefeed2.jpg" width=180 height=350>
+   </figure>
 
 ## <span id = "faq">6. 常见问题解答</span>
 
@@ -478,7 +508,7 @@ Feeds服务目前支持 Mac 和 Linux 发行版 debian。请根据自己使用�
 **Q6：Feeds Service 应用在Mac上启动时报错：**
 
    <figure>
-   <img src="https://trinity-website-1256757303.cos.ap-shanghai.myqcloud.com/feeds-manual/image/zh/q6-1.png" width=280 height=140>
+   <img src="image/zh/q6-1.png" width=280 height=140>
    </figure>
 
 **如何解决该问题？**
@@ -488,14 +518,14 @@ Feeds服务目前支持 Mac 和 Linux 发行版 debian。请根据自己使用�
 依次点击进入：系统偏好设置..->安全性与隐私->通用，如下图所示：
 
    <figure>
-   <img src="https://trinity-website-1256757303.cos.ap-shanghai.myqcloud.com/feeds-manual/image/zh/q6-2.png" width=200 height=200>
+   <img src="image/zh/q6-2.png" width=200 height=200>
    </figure>
 
 点击“仍要打开”，然后在弹出的确认打开界面继续点击“打开”，则会打开Feeds Service，然后在弹出的请求链接上点击“允许”即可。
 
    <figure>
-   <img src="https://trinity-website-1256757303.cos.ap-shanghai.myqcloud.com/feeds-manual/image/zh/q6-3.png" width=280 height=140>
-   <img src="https://trinity-website-1256757303.cos.ap-shanghai.myqcloud.com/feeds-manual/image/zh/q6-4.png" width=280 height=140>
+   <img src="image/zh/q6-3.png" width=280 height=140>
+   <img src="image/zh/q6-4.png" width=280 height=140>
    </figure>
 
 **Q7：Feeds Service服务的数据文件在哪里？**
@@ -505,7 +535,7 @@ Feeds服务目前支持 Mac 和 Linux 发行版 debian。请根据自己使用�
 该服务是运行在本地的，数据库文件默认是存储在home下的“.feedsd/”。
 
    <figure>
-   <img src="https://trinity-website-1256757303.cos.ap-shanghai.myqcloud.com/feeds-manual/image/common/q7.png" width=300 height=15>
+   <img src="image/common/q7.png" width=300 height=15>
    </figure>
 
 删除该数据库文件，则该服务所创建的Feed以及发送的微说全部丢失。请谨慎处理。
