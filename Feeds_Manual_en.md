@@ -350,7 +350,7 @@ Take the latest version at the time of editing as an example:
    <img src="https://trinity-website-1256757303.cos.ap-shanghai.myqcloud.com/feeds-manual2/image/en/feeds-bind5-2.jpg" width=180 height=350>
    </figure>
 
-9.  After the credential is issued successfully, the binding process is complete. Users can check the service information with the "Publisher Account" section of the menu.
+9. After the credential is issued successfully, the binding process is complete. Users can check the service information with the "Publisher Account" section of the menu.
 
    <figure>
    <img src="https://trinity-website-1256757303.cos.ap-shanghai.myqcloud.com/feeds-manual2/image/en/feeds-bind6.jpg" width=180 height=350>
