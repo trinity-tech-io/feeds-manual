@@ -127,14 +127,14 @@ elastOS可在Google Play商店中以及扫描下面的二维码来下载安装
 
 #### <span id = "installfeedsdapp">2.3.2 安装Feeds dapp</span>
 
-1. 打开elastOS，进入主页后点击“Capsule Marketplace”图标，进入后找到“Feeds”点击“INSTALL”安装。
+* 打开elastOS，进入主页后点击“Capsule Marketplace”图标，进入后找到“Feeds”点击“INSTALL”安装。
 
    <figure>
    <img src="https://trinity-website-1256757303.cos.ap-shanghai.myqcloud.com/feeds-manual2/image/zh/elastOS-home.jpg" width=180 height=350>
    <img src="https://trinity-website-1256757303.cos.ap-shanghai.myqcloud.com/feeds-manual2/image/zh/elastOS-market.jpg" width=180 height=350>
    </figure>
 
-2. 安装完毕后在 “最近浏览” 下找到“Feeds”，点击右侧菜单里的“收藏”将Feeds显示在elastOS的主界面，方便后续使用。
+* 安装完毕后在 “最近浏览” 下找到“Feeds”，点击右侧菜单里的“收藏”将Feeds显示在elastOS的主界面，方便后续使用。
 
    <figure>
    <img src="https://trinity-website-1256757303.cos.ap-shanghai.myqcloud.com/feeds-manual2/image/zh/elastOS-fav.jpg" width=180 height=350>
